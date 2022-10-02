@@ -105,9 +105,10 @@ nav a{
 .top_right a{
 	padding: 20px!important;
 	cursor: pointer;
-	border-left: 1px solid #FFFFFF33;
+	border-left: none;
 	
 }
+
 
 .top_right a:hover{
 	color: #f9004d;
